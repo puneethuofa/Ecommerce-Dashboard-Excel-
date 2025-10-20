@@ -222,6 +222,6 @@ Create a Power BI version for enterprise scalability.
 
 Puneeth Vijay Krishna Samarla
 M.S. in Information Science (Machine Learning), University of Arizona
-📧 puneethsamarla@email.com
+📧 puneethvks9@email.com
 
 🔗 LinkedIn
